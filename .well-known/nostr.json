@@ -1,5 +1,8 @@
 {
    "names": {
-     "LSULaw": "13c874759672e294bbed24553b12047c91860bbf7bbd1f95cd54bed379251505"
+     "Law": "13c874759672e294bbed24553b12047c91860bbf7bbd1f95cd54bed379251505"
+   },
+   "relays": {
+      "13c874759672e294bbed24553b12047c91860bbf7bbd1f95cd54bed379251505": ["wss://relay.damus.io", "wss://relay.primal.net", "wss://nos.lol", "wss://news.utxo.one"]
    }
  }
